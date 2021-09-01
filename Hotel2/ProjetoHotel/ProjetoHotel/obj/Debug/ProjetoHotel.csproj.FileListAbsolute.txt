@@ -1,0 +1,125 @@
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.exe.config
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.exe
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.pdb
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csprojAssemblyReference.cache
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Properties.Resources.resources
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.GenerateResource.cache
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.exe
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.pdb
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.BemVindo.resources
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.CadastreSe.resources
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.frmLogin.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.exe.config
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.exe
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.pdb
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.BemVindo.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.CadastreSe.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.frmLogin.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Properties.Resources.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.exe
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.pdb
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\MySql.Data.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Buffers.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Memory.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Zstandard.Net.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\MySql.Data.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Buffers.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Memory.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel\Hotel2\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CopyComplete
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\MySql.Data.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Buffers.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Memory.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Zstandard.Net.dll
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\MySql.Data.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Buffers.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Memory.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CopyComplete
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.cadastrarCliente.resources
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.editarCliente.resources
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.excluirCliente.resources
+C:\Users\antonym\Documents\Facul\Aldriano\Saves\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.consultarCliente.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.exe.config
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.exe
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\ProjetoHotel.pdb
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\MySql.Data.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Buffers.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Memory.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Zstandard.Net.dll
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.pdb
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Google.Protobuf.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\MySql.Data.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Buffers.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Memory.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csprojAssemblyReference.cache
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.BemVindo.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.cadastrarCliente.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.CadastreSe.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.consultarCliente.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.editarCliente.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Apresentacao.excluirCliente.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.frmLogin.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.Properties.Resources.resources
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.csproj.CopyComplete
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.exe
+C:\Users\pc\Documents\Facul\Aldriano\Hotel2 (1)\Hotel2\ProjetoHotel\ProjetoHotel\obj\Debug\ProjetoHotel.pdb
