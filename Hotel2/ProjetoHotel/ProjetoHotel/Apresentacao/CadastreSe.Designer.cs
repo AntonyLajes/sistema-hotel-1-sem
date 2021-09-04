@@ -134,6 +134,7 @@ namespace ProjetoHotel.Apresentacao
             this.Controls.Add(this.txtLogin);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "CadastreSe";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastre_se";
             this.ResumeLayout(false);
             this.PerformLayout();

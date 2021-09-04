@@ -70,6 +70,7 @@ namespace ProjetoHotel.Apresentacao
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnExcluir);
             this.Name = "excluirCliente";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "excluirCliente";
             this.ResumeLayout(false);
             this.PerformLayout();

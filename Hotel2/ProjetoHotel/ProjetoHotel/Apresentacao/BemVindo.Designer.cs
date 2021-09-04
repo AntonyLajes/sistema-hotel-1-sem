@@ -29,17 +29,18 @@ namespace ProjetoHotel.Apresentacao
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BemVindo));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.clientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastrarClienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sobreOProgramaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.editarClienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.excluirClienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.dgvDados = new System.Windows.Forms.DataGridView();
             this.exibirClientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sobreOProgramaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dgvDados = new System.Windows.Forms.DataGridView();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDados)).BeginInit();
             this.SuspendLayout();
@@ -51,7 +52,7 @@ namespace ProjetoHotel.Apresentacao
             this.ajudaToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(360, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(688, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -70,9 +71,37 @@ namespace ProjetoHotel.Apresentacao
             // cadastrarClienteToolStripMenuItem
             // 
             this.cadastrarClienteToolStripMenuItem.Name = "cadastrarClienteToolStripMenuItem";
-            this.cadastrarClienteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cadastrarClienteToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.cadastrarClienteToolStripMenuItem.Text = "Cadastrar Cliente";
             this.cadastrarClienteToolStripMenuItem.Click += new System.EventHandler(this.cadastrarClienteToolStripMenuItem_Click);
+            // 
+            // editarClienteToolStripMenuItem
+            // 
+            this.editarClienteToolStripMenuItem.Name = "editarClienteToolStripMenuItem";
+            this.editarClienteToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
+            this.editarClienteToolStripMenuItem.Text = "Editar Cliente";
+            this.editarClienteToolStripMenuItem.Click += new System.EventHandler(this.editarClienteToolStripMenuItem_Click);
+            // 
+            // excluirClienteToolStripMenuItem
+            // 
+            this.excluirClienteToolStripMenuItem.Name = "excluirClienteToolStripMenuItem";
+            this.excluirClienteToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
+            this.excluirClienteToolStripMenuItem.Text = "Excluir Cliente";
+            this.excluirClienteToolStripMenuItem.Click += new System.EventHandler(this.excluirClienteToolStripMenuItem_Click);
+            // 
+            // consultarToolStripMenuItem
+            // 
+            this.consultarToolStripMenuItem.Name = "consultarToolStripMenuItem";
+            this.consultarToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
+            this.consultarToolStripMenuItem.Text = "Consultar Cliente";
+            this.consultarToolStripMenuItem.Click += new System.EventHandler(this.consultarToolStripMenuItem_Click);
+            // 
+            // exibirClientesToolStripMenuItem
+            // 
+            this.exibirClientesToolStripMenuItem.Name = "exibirClientesToolStripMenuItem";
+            this.exibirClientesToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
+            this.exibirClientesToolStripMenuItem.Text = "Exibir Clientes";
+            this.exibirClientesToolStripMenuItem.Click += new System.EventHandler(this.exibirClientesToolStripMenuItem_Click);
             // 
             // ajudaToolStripMenuItem
             // 
@@ -86,62 +115,37 @@ namespace ProjetoHotel.Apresentacao
             // sobreOProgramaToolStripMenuItem
             // 
             this.sobreOProgramaToolStripMenuItem.Name = "sobreOProgramaToolStripMenuItem";
-            this.sobreOProgramaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.sobreOProgramaToolStripMenuItem.Size = new System.Drawing.Size(169, 22);
             this.sobreOProgramaToolStripMenuItem.Text = "Sobre o Programa";
             this.sobreOProgramaToolStripMenuItem.Click += new System.EventHandler(this.sobreOProgramaToolStripMenuItem_Click);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(169, 22);
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
-            // 
-            // editarClienteToolStripMenuItem
-            // 
-            this.editarClienteToolStripMenuItem.Name = "editarClienteToolStripMenuItem";
-            this.editarClienteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.editarClienteToolStripMenuItem.Text = "Editar Cliente";
-            this.editarClienteToolStripMenuItem.Click += new System.EventHandler(this.editarClienteToolStripMenuItem_Click);
-            // 
-            // excluirClienteToolStripMenuItem
-            // 
-            this.excluirClienteToolStripMenuItem.Name = "excluirClienteToolStripMenuItem";
-            this.excluirClienteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.excluirClienteToolStripMenuItem.Text = "Excluir Cliente";
-            this.excluirClienteToolStripMenuItem.Click += new System.EventHandler(this.excluirClienteToolStripMenuItem_Click);
-            // 
-            // consultarToolStripMenuItem
-            // 
-            this.consultarToolStripMenuItem.Name = "consultarToolStripMenuItem";
-            this.consultarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.consultarToolStripMenuItem.Text = "Consultar Cliente";
-            this.consultarToolStripMenuItem.Click += new System.EventHandler(this.consultarToolStripMenuItem_Click);
             // 
             // dgvDados
             // 
             this.dgvDados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDados.Location = new System.Drawing.Point(12, 27);
             this.dgvDados.Name = "dgvDados";
-            this.dgvDados.Size = new System.Drawing.Size(336, 224);
+            this.dgvDados.Size = new System.Drawing.Size(664, 389);
             this.dgvDados.TabIndex = 1;
-            // 
-            // exibirClientesToolStripMenuItem
-            // 
-            this.exibirClientesToolStripMenuItem.Name = "exibirClientesToolStripMenuItem";
-            this.exibirClientesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.exibirClientesToolStripMenuItem.Text = "Exibir Clientes";
-            this.exibirClientesToolStripMenuItem.Click += new System.EventHandler(this.exibirClientesToolStripMenuItem_Click);
             // 
             // BemVindo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(360, 263);
+            this.ClientSize = new System.Drawing.Size(688, 428);
             this.Controls.Add(this.dgvDados);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
+            this.MinimizeBox = false;
             this.Name = "BemVindo";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "BemVindo";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

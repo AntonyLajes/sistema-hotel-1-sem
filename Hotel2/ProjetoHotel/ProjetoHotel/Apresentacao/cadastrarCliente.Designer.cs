@@ -103,6 +103,7 @@ namespace ProjetoHotel.Apresentacao
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label1);
             this.Name = "cadastrarCliente";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "cadastrarCliente";
             this.ResumeLayout(false);
             this.PerformLayout();

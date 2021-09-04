@@ -102,6 +102,7 @@ namespace ProjetoHotel.Apresentacao
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.label1);
             this.Name = "consultarCliente";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "consultarCliente";
             this.ResumeLayout(false);
             this.PerformLayout();
